@@ -8,16 +8,16 @@ Hi There! Welcome to my page! I am a Robotics graduate student at NYU Tandon bas
 you can find my resume [here](https://1drv.ms/b/s!AsBNdYx8BYsPgaNPYhSbyAbvIGvXqQ?e=R5bzZd)
 
 ## 🤝 Connect with me
-💼 [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-8802b2236/)
-📱 [Instagram](https://www.instagram.com/aditiwari09/)
-[Email][at5701@nyu.edu)
+💼 [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-8802b2236/)<br>
+📱 [Instagram](https://www.instagram.com/aditiwari09/)<br>
+[Email][at5701@nyu.edu)<br>
 
 ## Passionate about
-🧠 Robot Learning
-🗺️ SLAM
-🚗 Autonomous vehicles
+🧠 Robot Learning<br>
+🗺️ SLAM<br>
+🚗 Autonomous vehicles<br>
 
 ##Currently Learning
-🔢Discrete Math
-💻 Data Structures and algorithms
-ROS2 SLAM
+🔢Discrete Math<br>
+💻 Data Structures and algorithms<br>
+ROS2 SLAM<br>
