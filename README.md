@@ -10,7 +10,7 @@ you can find my resume [here](https://1drv.ms/b/s!AsBNdYx8BYsPgaNPYhSbyAbvIGvXqQ
 ## 🤝 Connect with me
 💼 [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-8802b2236/)<br>
 📱 [Instagram](https://www.instagram.com/aditiwari09/)<br>
-[Email](at5701@nyu.edu)<br>
+ 📧[Email](at5701@nyu.edu)<br>
 
 ## Passionate about
 🧠 Robot Learning<br>
