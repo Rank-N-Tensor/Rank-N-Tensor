@@ -14,10 +14,8 @@ you can find my resume [here](https://1drv.ms/b/s!AsBNdYx8BYsPgaNPYhSbyAbvIGvXqQ
 
 ## Passionate about
 🧠 Robot Learning<br>
-🗺️📍 SLAM<br>
-🚗 Autonomous vehicles<br>
+Humanoid Roboitcs<br
 
 ## Currently Learning
-🔢Discrete Math<br>
+🔢Humanoid Robotics<br>
 💻 Data Structures and algorithms<br>
-🤖🗺️📍ROS2 SLAM<br>
