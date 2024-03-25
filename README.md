@@ -1,6 +1,10 @@
 # Aditya Tiwari's GitHub 👋
 Hi There! Welcome to my page! I am a Robotics graduate student at NYU Tandon based in New York City.
 
+# Biped Step
+Find my NYU funded project [here](https://abhinavkumarak56.wixsite.com/project-step-1)
+We aim to build a perception controlled bipedal robot using ROS2 as our platform.
+
 ## 👨‍💻 About Me 
 🤖 I'm an aspiring roboticist with experience in Robot manipulation, motion planning and SLAM.  
 🆒🐍🐚 🐙 I am well versed in modern C++, Python, Shell, and git.  
@@ -32,9 +36,10 @@ Here's a list of technologies I'm experienced with:
 
 ## ⚡ GitHub Analytics
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rank-N-Tensor&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rank-N-Tensor&layout=compact&theme=radical)
 
 
 
 ## 🌱 Currently Learning
-🔢 Humanoid Robotics
+🔢 Humanoid Roboticc - Motion planning
+
