@@ -4,7 +4,7 @@ Hi There! Welcome to my page! I am a Robotics graduate student at NYU Tandon bas
 ## 👨‍💻 About Me 
 🤖 I'm an aspiring roboticist with experience in Robot manipulation, motion planning and SLAM.  
 🆒🐍🐚 🐙 I am well versed in modern C++, Python, Shell, and git.  
-🌵🤖 Furthermore, I have worked with robotics middleware like ROS1 and simulation platforms like gazebo and CoppeliaSim.  
+🌵🤖 Furthermore, I have worked with robotics middleware like ROS2 and simulation platforms like gazebo and CoppeliaSim.  
 You can find my resume [here](https://1drv.ms/b/s!AsBNdYx8BYsPgaNPYhSbyAbvIGvXqQ?e=R5bzZd)
 
 ## 🤝 Connect with Me
@@ -21,7 +21,14 @@ Here's a list of technologies I'm experienced with:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00457C?style=flat&logo=cplusplus&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-... (and so on for the other technologies)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-3498DB?style=flat&logo=sim&logoColor=white) <!-- No official badge exists, so choose a color and logo that represents simulation or robotics -->
+![Gazebo](https://img.shields.io/badge/Gazebo-FFB570?style=flat) <!-- No official badge exists, so choose a color that represents it -->
+![Mujoco](https://img.shields.io/badge/Mujoco-0078D6?style=flat) <!-- No official badge exists, so choose a color that represents it -->
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
 
 ## ⚡ GitHub Analytics
 <p align="center">
