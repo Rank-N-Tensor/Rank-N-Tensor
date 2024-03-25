@@ -41,5 +41,5 @@ Here's a list of technologies I'm experienced with:
 
 
 ## 🌱 Currently Learning
-🔢 Humanoid Roboticc - Motion planning
+🔢 Humanoid Robotics - Motion planning<br>
 
