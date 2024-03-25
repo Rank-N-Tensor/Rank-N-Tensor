@@ -31,10 +31,10 @@ Here's a list of technologies I'm experienced with:
 
 
 ## ⚡ GitHub Analytics
-<p align="center">
-  <img width="48%" src="YOUR_GITHUB_STATS_LINK" />
-  <img width="48%" src="YOUR_GITHUB_MOST_USED_LANGUAGES_LINK" />
-</p>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rank-N-Tensor&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+
 
 ## 🌱 Currently Learning
 🔢 Humanoid Robotics
